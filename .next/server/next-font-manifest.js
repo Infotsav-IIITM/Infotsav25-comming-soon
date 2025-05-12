@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/rokum/Projects/Infotsav/Infotsav25-comming-soon/app/layout\":[\"static/media/4f05ba3a6752a328-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
